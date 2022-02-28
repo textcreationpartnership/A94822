@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True intelligence from Cornwall: being a true relation of the rising of 600. fishermen and their wives, and falling upon Sir Ralph Hopton and the Cavaliers, wounding Sir Ralph himselfe, by striking him from off his horse, killing diverse of his men, and putting the rest to flight: and how the said fishermen pillaged the town of Bodnam in Cornwall, which caused the whole county to be up in armes, and the beacons to be fired throughout the whole county. Also how the day following Sir Ralph Hopton with 500. men took some few fishermen, and tied them to trees, whipping them naked with broome and furse, and how he pillaged M. Tresuses house. Likewise the taking of two barks which came from the Governour of Flanders with armes for 3000. men; and the names of the malignants in the foresaid county. Sent in a letter from Sir Jonathan Trelawney to M. Trelawney merchant in London.</title>
+            <author>Trelawny, Jonathan, Sir, 1623-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94822</idno>
+            <idno type="STC">Wing T2108</idno>
+            <idno type="STC">Thomason E126_46</idno>
+            <idno type="STC">ESTC R19890</idno>
+            <idno type="EEBO-CITATION">99860763</idno>
+            <idno type="PROQUEST">99860763</idno>
+            <idno type="VID">112888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112888)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True intelligence from Cornwall: being a true relation of the rising of 600. fishermen and their wives, and falling upon Sir Ralph Hopton and the Cavaliers, wounding Sir Ralph himselfe, by striking him from off his horse, killing diverse of his men, and putting the rest to flight: and how the said fishermen pillaged the town of Bodnam in Cornwall, which caused the whole county to be up in armes, and the beacons to be fired throughout the whole county. Also how the day following Sir Ralph Hopton with 500. men took some few fishermen, and tied them to trees, whipping them naked with broome and furse, and how he pillaged M. Tresuses house. Likewise the taking of two barks which came from the Governour of Flanders with armes for 3000. men; and the names of the malignants in the foresaid county. Sent in a letter from Sir Jonathan Trelawney to M. Trelawney merchant in London.</title>
+                  <author>Trelawny, Jonathan, Sir, 1623-1681.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Novem. 10. Printed by R. Austin and A. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652 --  Early works to 1800.</term>
+               <term>Cornwall  (England : County) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112888:1"/>
+            <pb facs="tcp:112888:1" rendition="simple:additions"/>
+            <p>TRUE INTELLIGENCE <hi>FROM</hi> CORNWALL: <hi>BEING</hi> A true Relation of the Riſing of 600. Fiſhermen and their Wives, and falling upon Sir <hi>Ralph Hopton</hi> and the Cavaliers, wounding Sir <hi>Ralph</hi> himſelfe, by ſtriking him from off his horſe, killing diverſe of his men, and putting the reſt to flight: and how the ſaid Fiſhermen pillaged the town of Bodnam in Cornwall, which cauſed the whole County to be up in armes; and the Beacons to be fired throughout the whole County. <hi>Alſo how the day following</hi> Sir Ralph Hopton <hi>with</hi> 500. <hi>men took ſome few Fiſhermen, and tied them to trees, whipping them naked with Broome and Furſe, and how he pillaged</hi> M. Trefuſes <hi>houſe.</hi> Likewiſe the taking of two Barks which came from the Governour of <hi>Flanders</hi> with armes for 3000. men; and the names of the Malignants in the foreſaid County.</p>
+            <p>
+               <hi>Sent in a Letter from</hi> Sir Jonathan Trelawney <hi>to</hi> M. Tre<g ref="char:EOLhyphen"/>lawney <hi>Merchant in</hi> London.</p>
+            <p>
+               <hi>LONDON, Novem.</hi> 10. Printed by <hi>R. Auſtin</hi> and <hi>A. Coe.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112888:2"/>
+            <pb n="1" facs="tcp:112888:2"/>
+            <head>TRUE INTELLIGENCE <hi>FROM</hi> CORNWALL; <hi>BEING</hi> A true Relation of Sir Ralph Hoptons cru<g ref="char:EOLhyphen"/>elty, in apprehending diverſe poore Fiſhermen, tying them to trees, and whipping them naked with Broome and Furſe.</head>
+            <head type="sub">Alſo the manner and occaſion of <hi>Sir Ralph Hoptons</hi> being wounded, with the names of the chiefe Ma<g ref="char:EOLhyphen"/>lignants in the foreſaid County.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough I cannot enjoy that former happineſſe which I was wont, the fruition of your ſociety, yet I hope by our pens we may recipro<g ref="char:EOLhyphen"/>cally underſtand of each o<g ref="char:EOLhyphen"/>thers welfare, I could wiſh, and daily pray
+<pb n="2" facs="tcp:112888:3"/>that there might be a conjunct and perfect union and concord betweene his Majeſty and the Parliament, for want of which we live in danger through feare of forraigne and domeſtick enemies. Our countrey is ſorely oppreſſed, not onely with the Kings part, but the vulgar and poorer ſort of peo<g ref="char:EOLhyphen"/>ple are in combuſtion: there was upon thurſday laſt at the Mount five or ſix hun<g ref="char:EOLhyphen"/>dred poore Fiſhermen and their wives that came to Bodnam with ſpits, clubs and ſtones, and in a violent and ruſtick manner with the help of other poor there, entred diverſe houſes, and carried away their plate and pewter, ſo that the county was up in armes, and the beacons ſet on fire through<g ref="char:EOLhyphen"/>out the Shire. Sir Ralph Hopton, who is at Pendennis, never ſtirred forth in all this hurley-burley, but at night about ſix of the clock he came &amp; marched after the fiſher<g ref="char:EOLhyphen"/>men, and urged them to go to M. Trefuſes his houſe at Waford and plunder him, and he would ſecond their deſignes. Sir Ralph Hopton had a good bang on the neck for his counſell, and laid gaſping in the high
+<pb n="3" facs="tcp:112888:3"/>way, and aſtoniſhed: at the firſt his ſoul<g ref="char:EOLhyphen"/>diers cocked their piſtols, and vowed to ſhoot them, who were alſo ſtruck off their horſes, and two ſlain in the high way, ſo that for the preſent Sir Ralph and his fol<g ref="char:EOLhyphen"/>lowers returned to their hold without pil<g ref="char:EOLhyphen"/>laging M. Trefuſes as he intended. Sir Ralph the next day came with 500. foot &amp; horſe, &amp; then he revenged himſelf of ſome few ſtragling fiſher-men, whom he tied to trees and whipped naked with Broom and Furſe, and that day took ſix light horſes from Sir John Vigures ſtable pillaged him of all his plate and pewter, leaving him not ſo much as a diſh or a ſpoon to eat his meat in. Captain Carwithan and his trained Bands roſe, and very fiercely aſſaulted Sir Ralphs troupes, yet Sir Ralph made them retreat with the loſſe of 6 or 8. of his men. The fiſhermen and their wives came in the time of the skirmiſh, moſt of them having gotten muskets, birding peeces &amp; ſwords, ſo that with the Trained Bands and the fi<g ref="char:EOLhyphen"/>ſhermen, they left but a narrow paſſage for S<hi rend="sup">r</hi> Ralphs eſcape, vowing that if they could
+<pb n="4" facs="tcp:112888:4"/>take Sir Ralph or any of his, they would whip him or them to death for his barba<g ref="char:EOLhyphen"/>rous cruelty on their friends, Sir Ralph de<g ref="char:EOLhyphen"/>parted for that time, and carried away five of his eight horſes, and great miſchiefe he would have done more, but the way was ſo dirty and ſtony, that it is impoſsible for the horſe to travell, much more to fight, in ſuch narrow paſſages.</p>
+            <p>There is one maine thing which I have omitted, and that is, the multitude of War<g ref="char:EOLhyphen"/>rants which have iſſued forth under the command of Prince Robert to all places within twenty miles of his Army, it runs in the nature of Generall Leſley his War<g ref="char:EOLhyphen"/>rants at his entring of New-Caſtle, com<g ref="char:EOLhyphen"/>manding all men to provide and bring to his Army all manner of food and ſuſte<g ref="char:EOLhyphen"/>nance for his ſouldiers reliefe, as alſo that the countrey provide both horſe and men for the aſsiſting of him in the ſaid warre, and that all thoſe that wil not aſsiſt him, to pay a contribution of money for their re<g ref="char:EOLhyphen"/>fuſall.</p>
+            <p>And this is the effect of the ſaid War<g ref="char:EOLhyphen"/>rants,
+<pb n="5" facs="tcp:112888:4"/>as I can rightly underſtand. Plate and money is brought to his Majeſty in a<g ref="char:EOLhyphen"/>bundance, and the Coyners of his treaſure carried upon wheeles, and coyne money travelling. It is a moſt excellent inventi<g ref="char:EOLhyphen"/>on of Leniell His Majeſties Engineere, whom we thought to have beene cut off in the laſt fight at Kinton.</p>
+            <p>There was this day ſeven-night two Barks full of Ammunition on at Foy, with three thouſand mens armour, which came from the Governour of Flanders, whoſe name is, as I have heard, Don Franciſco de Melos a Spaniard, M. Cozens one of the Deputy-Lieutenants for the Shire, ſeized on it for His Majeſty, who bearing the Parliament an inveterate hate for his laſt diſhonour, in cenſuring him to ask for<g ref="char:EOLhyphen"/>giveneſſe for his falſe Patent, hath in an op<g ref="char:EOLhyphen"/>probrious and tyrannicall manner levied great Forces, and doth pillage his neigh<g ref="char:EOLhyphen"/>bouring friends, and all in the name of his Majeſty. I cannot certifie unto you more at this preſent, ſave the names of ſuch in
+<pb n="6" facs="tcp:112888:5"/>this our County who are altogether for his Majeſty.</p>
+            <list>
+               <item>
+                  <hi>The Lord Mohune,</hi> and his Sonn.</item>
+               <item>
+                  <hi>M. Arundell,</hi>
+               </item>
+               <item>
+                  <hi>Sir Bevill Greenvile,</hi>
+               </item>
+               <item>
+                  <hi>M. Cozen,</hi>
+               </item>
+               <item>
+                  <hi>Sir Ralph Edgcombe,</hi>
+               </item>
+               <item>
+                  <hi>Sir Iohn Furſe,</hi>
+               </item>
+               <item>
+                  <hi>Sir Iohn Royſtworth,</hi>
+               </item>
+               <item>
+                  <hi>Sir Robert Meynard,</hi>
+               </item>
+               <item>
+                  <hi>M. Pope,</hi>
+               </item>
+               <item>
+                  <hi>M. Waſher,</hi>
+               </item>
+               <item>
+                  <hi>Sir Richard Young,</hi>
+               </item>
+               <item>
+                  <hi>M. Venner,</hi>
+               </item>
+               <item>
+                  <hi>M. Pollard,</hi>
+               </item>
+               <item>
+                  <hi>M. Tingroſe,</hi>
+               </item>
+               <item>
+                  <hi>M. Trefuſes,</hi>
+               </item>
+               <item>
+                  <hi>M. Phillipps,</hi>
+               </item>
+               <item>
+                  <hi>M. Carey,</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112888:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
